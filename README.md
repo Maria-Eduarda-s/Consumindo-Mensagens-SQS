@@ -50,6 +50,8 @@ Antes de começar, você precisará ter os seguintes itens instalados:
     Neste projeto, tive a oportunidade de aprender sobre a configuração do cliente SQS e a gestão de mensagens. Foi possível entender como definir a região e o endpoint para me comunicar com o serviço SQS, utilizando o LocalStack como simulação local da AWS.
     Através da exploração das operações de envio e recebimento de mensagens, pude ver como funcionam os sistemas baseados em filas. Além disso, enfrentei e resolvi desafios relacionados à configuração do ambiente.
 
-![image](https://github.com/user-attachments/assets/f91dfcf6-f453-49e7-8d13-14b8e6b2fa9b)
-![image](https://github.com/user-attachments/assets/1902ccc3-13a9-4962-8bea-6177a97519ad)
-![image](https://github.com/user-attachments/assets/59366cca-7b0d-46b1-8cc8-d745dce8eaa6)
+    <img src="https://github.com/user-attachments/assets/f91dfcf6-f453-49e7-8d13-14b8e6b2fa9b" alt="captura tela localstack" width="750"/>
+    <img src="https://github.com/user-attachments/assets/1902ccc3-13a9-4962-8bea-6177a97519ad" alt="captura tela sqsproducer" width="750"/>
+    <img src="https://github.com/user-attachments/assets/59366cca-7b0d-46b1-8cc8-d745dce8eaa6" alt="captura tela sqsconsumer" width="750"/>
+
+
